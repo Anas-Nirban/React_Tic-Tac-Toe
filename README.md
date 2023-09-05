@@ -20,7 +20,7 @@ A simple Tic-Tac-Toe game built using React.
 To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Anas-Nirban/React_Tic-Tac-Toe.git`
-2. Change directory: `cd Tic-Tac-Toe`
+2. Change directory: `cd React_Tic-Tac-Toe`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
